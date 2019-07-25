@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/tinylib/msgp/msgp"
-	"github.com/zippoxer/bow/codec"
+	"github.com/rubiojr/bow/codec"
 )
 
 //go:generate msgp -unexported

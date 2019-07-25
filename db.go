@@ -12,9 +12,9 @@ import (
 
 	"github.com/dgraph-io/badger"
 
-	"github.com/zippoxer/bow/codec"
-	jsoncodec "github.com/zippoxer/bow/codec/json"
-	keycodec "github.com/zippoxer/bow/codec/key"
+	"github.com/rubiojr/bow/codec"
+	jsoncodec "github.com/rubiojr/bow/codec/json"
+	keycodec "github.com/rubiojr/bow/codec/key"
 
 	"github.com/sony/sonyflake"
 )
