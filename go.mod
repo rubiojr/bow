@@ -1,4 +1,4 @@
-module github.com/zippoxer/bow
+module github.com/rubiojr/bow
 
 go 1.12
 
